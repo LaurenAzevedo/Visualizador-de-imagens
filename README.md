@@ -75,10 +75,11 @@ Na tela principal, o usuário tem a opção de escolher qual foto ele gostaria d
 
 Na tela secundária, o usuário tem a opção de escolher qual foto ele gostaria de exibir.
 
-
 <img src="https://github.com/user-attachments/assets/2f648bd7-eda4-4fd3-b282-8d4f11d2a517" width="260" height="500"/>
 
+# 🧰 APK do APP 
 
+<a href="https://github.com/LaurenAzevedo/Visualizador-de-imagens/blob/main/trocadetelagatinho.apk"> Download APK </a>
  
 # 📄 Licença
 
